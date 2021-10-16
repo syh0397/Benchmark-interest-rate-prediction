@@ -16,6 +16,9 @@ Data : Financial data reader , FRED , Etc,,,
 
 # No update -  Failure
 
+LSTM으로 주가를 예측해보는 것 만큼 실패한 프로젝트 입니다.
+이유는 아래와 같습니다. 
+
 1. Multicollinearity
 2. Causality 
 3. LSTM - Because it is difficult to find a pattern, there is also a tendency to predict with an ambiguous intermediate value.
